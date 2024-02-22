@@ -98,3 +98,5 @@
 Вышеуказанные команды удаляют только локальную копию ветки. В удалённом репозитории она может сохраниться. Если хотите стереть удалённую ветку, выполните следующую команду:
 
 * **git push origin --delete existing_branch_name**
+
+[Ссылка на LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU)
