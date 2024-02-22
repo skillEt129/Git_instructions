@@ -100,3 +100,4 @@
 * **git push origin --delete existing_branch_name**
 
 [Ссылка на LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU)
+[Ссылка как загрузить проект на GitHub](https://www.youtube.com/watch?v=gzFbt7GVRKU)
